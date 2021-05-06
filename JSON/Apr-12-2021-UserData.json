@@ -1,0 +1,1936 @@
+{
+  "#umlaut_a": {
+    "bezosfan1": {
+      "nMsg": 306,
+      "avgWordCount": 6.11111111111111
+    },
+    "takemetospace_": {
+      "nMsg": 64,
+      "avgWordCount": 4.187500000000002
+    },
+    "Undead_Logic": {
+      "nMsg": 144,
+      "avgWordCount": 7.138888888888889
+    },
+    "Umlaut_A": {
+      "nMsg": 3,
+      "avgWordCount": 2.3333333333333335
+    },
+    "Lukeski14": {
+      "nMsg": 26,
+      "avgWordCount": 4.961538461538462
+    },
+    "Brycebat": {
+      "nMsg": 91,
+      "avgWordCount": 12.681318681318686
+    },
+    "Headsmen": {
+      "nMsg": 190,
+      "avgWordCount": 5.089473684210527
+    },
+    "CultBot_A": {
+      "nMsg": 73,
+      "avgWordCount": 14.013698630136986
+    },
+    "tagz_sdv": {
+      "nMsg": 8,
+      "avgWordCount": 11.5
+    },
+    "Spiral3Y3S": {
+      "nMsg": 42,
+      "avgWordCount": 3.833333333333332
+    },
+    "BlueHighway": {
+      "nMsg": 77,
+      "avgWordCount": 12.12987012987013
+    },
+    "TamPacks": {
+      "nMsg": 138,
+      "avgWordCount": 12.594202898550725
+    },
+    "DanGleesack": {
+      "nMsg": 1,
+      "avgWordCount": 3
+    },
+    "far0a": {
+      "nMsg": 4,
+      "avgWordCount": 5.75
+    },
+    "j15y9rkp": {
+      "nMsg": 56,
+      "avgWordCount": 7.285714285714286
+    },
+    "viktorvlasoff": {
+      "nMsg": 1,
+      "avgWordCount": 5
+    },
+    "kirbydog18": {
+      "nMsg": 28,
+      "avgWordCount": 6.892857142857143
+    },
+    "iwoutah": {
+      "nMsg": 9,
+      "avgWordCount": 5.777777777777778
+    },
+    "ivar_andrukhovych": {
+      "nMsg": 1,
+      "avgWordCount": 12
+    },
+    "ForeverT0xic": {
+      "nMsg": 9,
+      "avgWordCount": 3.2222222222222223
+    }
+  },
+  "#trexcapades": {
+    "Hacknd": {
+      "nMsg": 57,
+      "avgWordCount": 8.473684210526315
+    },
+    "Trexcapades": {
+      "nMsg": 78,
+      "avgWordCount": 3.5384615384615383
+    },
+    "StreamElements": {
+      "nMsg": 58,
+      "avgWordCount": 8.689655172413795
+    },
+    "OldGrumpyGamer": {
+      "nMsg": 50,
+      "avgWordCount": 7.42
+    },
+    "Nightbot": {
+      "nMsg": 46,
+      "avgWordCount": 26.804347826086957
+    },
+    "ponderingpleb": {
+      "nMsg": 5,
+      "avgWordCount": 1
+    },
+    "Blackjacket644": {
+      "nMsg": 21,
+      "avgWordCount": 4.285714285714286
+    },
+    "Buttleak69": {
+      "nMsg": 7,
+      "avgWordCount": 5.714285714285714
+    },
+    "ReboundScores": {
+      "nMsg": 44,
+      "avgWordCount": 5.0227272727272725
+    },
+    "BlackHawk5132": {
+      "nMsg": 34,
+      "avgWordCount": 9.500000000000004
+    },
+    "penumbra779": {
+      "nMsg": 4,
+      "avgWordCount": 8.25
+    },
+    "hijomi1337": {
+      "nMsg": 13,
+      "avgWordCount": 2.3076923076923075
+    },
+    "Mixedout01": {
+      "nMsg": 1,
+      "avgWordCount": 3
+    },
+    "JurassicWrex": {
+      "nMsg": 10,
+      "avgWordCount": 3.2
+    },
+    "L3Dbelly": {
+      "nMsg": 96,
+      "avgWordCount": 6.489583333333331
+    },
+    "Jocephus83": {
+      "nMsg": 54,
+      "avgWordCount": 5.8888888888888875
+    },
+    "BlueHighway": {
+      "nMsg": 2,
+      "avgWordCount": 3
+    },
+    "ManNtheMiddle": {
+      "nMsg": 14,
+      "avgWordCount": 2.857142857142857
+    },
+    "terafang178": {
+      "nMsg": 2,
+      "avgWordCount": 1
+    },
+    "bazeebaz": {
+      "nMsg": 2,
+      "avgWordCount": 2
+    },
+    "FallenNeophyte": {
+      "nMsg": 6,
+      "avgWordCount": 8.666666666666666
+    },
+    "lakota_indian": {
+      "nMsg": 26,
+      "avgWordCount": 2.923076923076923
+    },
+    "13imhelterskelter": {
+      "nMsg": 5,
+      "avgWordCount": 2.6
+    },
+    "bigrobmastro": {
+      "nMsg": 6,
+      "avgWordCount": 3.6666666666666665
+    },
+    "Chefbullfrog": {
+      "nMsg": 16,
+      "avgWordCount": 4.75
+    },
+    "mickfoley": {
+      "nMsg": 27,
+      "avgWordCount": 4.703703703703704
+    },
+    "broncothebarber": {
+      "nMsg": 22,
+      "avgWordCount": 3.9545454545454546
+    },
+    "TouchedByYoshi": {
+      "nMsg": 16,
+      "avgWordCount": 4.6875
+    },
+    "Sanctumaxis": {
+      "nMsg": 6,
+      "avgWordCount": 3.3333333333333335
+    },
+    "joakimbrodenismydad": {
+      "nMsg": 36,
+      "avgWordCount": 4.888888888888889
+    },
+    "Man_Child_in_Denial": {
+      "nMsg": 10,
+      "avgWordCount": 5.5
+    },
+    "TipsyMonk_": {
+      "nMsg": 16,
+      "avgWordCount": 3.1875
+    },
+    "garybrewski": {
+      "nMsg": 98,
+      "avgWordCount": 6.295918367346939
+    },
+    "arthritic_hands": {
+      "nMsg": 3,
+      "avgWordCount": 1.6666666666666667
+    },
+    "BoxedMindes": {
+      "nMsg": 12,
+      "avgWordCount": 5.333333333333333
+    },
+    "js3100": {
+      "nMsg": 32,
+      "avgWordCount": 4.1875
+    },
+    "jonesythecat22": {
+      "nMsg": 34,
+      "avgWordCount": 8.352941176470589
+    },
+    "captainahhvious": {
+      "nMsg": 6,
+      "avgWordCount": 1
+    },
+    "XeroAzmea": {
+      "nMsg": 64,
+      "avgWordCount": 7.109375
+    },
+    "4th_big_sleez": {
+      "nMsg": 1,
+      "avgWordCount": 5
+    },
+    "crumpinwagaon": {
+      "nMsg": 6,
+      "avgWordCount": 8.833333333333334
+    },
+    "DoctorSpoons": {
+      "nMsg": 98,
+      "avgWordCount": 5.86734693877551
+    },
+    "Robbie261": {
+      "nMsg": 2,
+      "avgWordCount": 10.5
+    },
+    "DapperMob": {
+      "nMsg": 108,
+      "avgWordCount": 4.9907407407407405
+    },
+    "B1indHermit": {
+      "nMsg": 8,
+      "avgWordCount": 6.375
+    },
+    "corpsyful": {
+      "nMsg": 1,
+      "avgWordCount": 16
+    },
+    "skubsoon": {
+      "nMsg": 8,
+      "avgWordCount": 3.875
+    },
+    "Wpa4th": {
+      "nMsg": 23,
+      "avgWordCount": 5.956521739130435
+    },
+    "Betoni": {
+      "nMsg": 2,
+      "avgWordCount": 2
+    },
+    "fattypaty420": {
+      "nMsg": 29,
+      "avgWordCount": 5.689655172413793
+    },
+    "Tommyramma": {
+      "nMsg": 2,
+      "avgWordCount": 3
+    },
+    "kaboomjack": {
+      "nMsg": 30,
+      "avgWordCount": 4.866666666666666
+    },
+    "Rtr247": {
+      "nMsg": 5,
+      "avgWordCount": 2
+    },
+    "TheBrolympian": {
+      "nMsg": 1,
+      "avgWordCount": 7
+    },
+    "siilkyjohnston": {
+      "nMsg": 11,
+      "avgWordCount": 5.7272727272727275
+    },
+    "big_debbie_deb8": {
+      "nMsg": 21,
+      "avgWordCount": 7.714285714285714
+    },
+    "6kyle_": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "jollyaustin1": {
+      "nMsg": 13,
+      "avgWordCount": 6.846153846153846
+    },
+    "thunderisgaming": {
+      "nMsg": 14,
+      "avgWordCount": 4.928571428571429
+    },
+    "N_Squared_78": {
+      "nMsg": 42,
+      "avgWordCount": 6.238095238095238
+    },
+    "kirbydog18": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "Headsmen": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "Umlaut_A": {
+      "nMsg": 4,
+      "avgWordCount": 3.75
+    },
+    "bezosfan1": {
+      "nMsg": 1,
+      "avgWordCount": 2
+    },
+    "octave_higher": {
+      "nMsg": 1,
+      "avgWordCount": 2
+    },
+    "Dylanlawery": {
+      "nMsg": 25,
+      "avgWordCount": 4.439999999999999
+    },
+    "N33dMiCro": {
+      "nMsg": 4,
+      "avgWordCount": 6.5
+    },
+    "saeicon1856": {
+      "nMsg": 1,
+      "avgWordCount": 4
+    },
+    "chanceit_": {
+      "nMsg": 18,
+      "avgWordCount": 6.5
+    },
+    "bBean99": {
+      "nMsg": 4,
+      "avgWordCount": 10
+    },
+    "GearCatTV": {
+      "nMsg": 1,
+      "avgWordCount": 7
+    },
+    "bonzillan": {
+      "nMsg": 2,
+      "avgWordCount": 3.5
+    },
+    "DoomsUK": {
+      "nMsg": 1,
+      "avgWordCount": 8
+    },
+    "Gr8whitepoolshark ": {
+      "nMsg": 2,
+      "avgWordCount": 3
+    },
+    "HackDiesel": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "tweetythis": {
+      "nMsg": 3,
+      "avgWordCount": 3.3333333333333335
+    },
+    "drmindjr": {
+      "nMsg": 2,
+      "avgWordCount": 4
+    },
+    "DrMalpractis": {
+      "nMsg": 1,
+      "avgWordCount": 11
+    }
+  },
+  "#hutch": {
+    "TychoBob": {
+      "nMsg": 4,
+      "avgWordCount": 3.25
+    },
+    "celticcanadian": {
+      "nMsg": 12,
+      "avgWordCount": 7.25
+    },
+    "j15y9rkp": {
+      "nMsg": 166,
+      "avgWordCount": 5.108433734939763
+    },
+    "downwithme16": {
+      "nMsg": 1,
+      "avgWordCount": 2
+    },
+    "palestinian_denzel": {
+      "nMsg": 10,
+      "avgWordCount": 6
+    },
+    "itskideo": {
+      "nMsg": 18,
+      "avgWordCount": 4.277777777777778
+    },
+    "Beckwald": {
+      "nMsg": 1,
+      "avgWordCount": 2
+    },
+    "fighter4u": {
+      "nMsg": 13,
+      "avgWordCount": 8.538461538461538
+    },
+    "tonyisoriginal": {
+      "nMsg": 2,
+      "avgWordCount": 2.5
+    },
+    "vpabla": {
+      "nMsg": 2,
+      "avgWordCount": 3
+    },
+    "dawnyyawn": {
+      "nMsg": 1,
+      "avgWordCount": 6
+    },
+    "fernandoferras": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "jadknew": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "Bilbo_Lagginz": {
+      "nMsg": 2,
+      "avgWordCount": 5
+    },
+    "iwoutah": {
+      "nMsg": 23,
+      "avgWordCount": 4.17391304347826
+    },
+    "SteelCurtain3007": {
+      "nMsg": 1,
+      "avgWordCount": 3
+    },
+    "MrNoremac": {
+      "nMsg": 6,
+      "avgWordCount": 4.333333333333333
+    },
+    "Nightbot": {
+      "nMsg": 56,
+      "avgWordCount": 18.05357142857143
+    },
+    "ohiost0927": {
+      "nMsg": 5,
+      "avgWordCount": 5.8
+    },
+    "ImDruMz": {
+      "nMsg": 7,
+      "avgWordCount": 10.857142857142858
+    },
+    "berimu": {
+      "nMsg": 3,
+      "avgWordCount": 8
+    },
+    "Scorchmuffin123": {
+      "nMsg": 49,
+      "avgWordCount": 5.387755102040815
+    },
+    "wilemanmate": {
+      "nMsg": 5,
+      "avgWordCount": 5.8
+    },
+    "Major_Spicy": {
+      "nMsg": 6,
+      "avgWordCount": 8.333333333333334
+    },
+    "Leysfort": {
+      "nMsg": 4,
+      "avgWordCount": 3.25
+    },
+    "LifeIsHellaYikers": {
+      "nMsg": 8,
+      "avgWordCount": 4
+    },
+    "DavinCiSki": {
+      "nMsg": 58,
+      "avgWordCount": 4.448275862068965
+    },
+    "WrathofKhan90": {
+      "nMsg": 6,
+      "avgWordCount": 6.5
+    },
+    "bobby_jg": {
+      "nMsg": 1,
+      "avgWordCount": 11
+    },
+    "DanGleesack": {
+      "nMsg": 31,
+      "avgWordCount": 2.451612903225806
+    },
+    "ateateight": {
+      "nMsg": 40,
+      "avgWordCount": 7.45
+    },
+    "vegaskid96": {
+      "nMsg": 17,
+      "avgWordCount": 5
+    },
+    "MrTalman": {
+      "nMsg": 32,
+      "avgWordCount": 5.03125
+    },
+    "maniacjsnipes": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "S_Bharmal528491": {
+      "nMsg": 183,
+      "avgWordCount": 5.032786885245904
+    },
+    "WaitThatsNotLegal": {
+      "nMsg": 23,
+      "avgWordCount": 6.086956521739131
+    },
+    "27matthewt": {
+      "nMsg": 7,
+      "avgWordCount": 1.4285714285714286
+    },
+    "probablyryann": {
+      "nMsg": 8,
+      "avgWordCount": 3.375
+    },
+    "elenanumbers_": {
+      "nMsg": 60,
+      "avgWordCount": 5.383333333333332
+    },
+    "SirLazyBlue": {
+      "nMsg": 5,
+      "avgWordCount": 8
+    },
+    "dgamerxx": {
+      "nMsg": 1,
+      "avgWordCount": 30
+    },
+    "Conkreet": {
+      "nMsg": 10,
+      "avgWordCount": 4.1
+    },
+    "TheDrsh": {
+      "nMsg": 5,
+      "avgWordCount": 13.6
+    },
+    "bdcali": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "CB10": {
+      "nMsg": 3,
+      "avgWordCount": 7
+    },
+    "VictraAuBarca12": {
+      "nMsg": 12,
+      "avgWordCount": 8.333333333333334
+    },
+    "stock86": {
+      "nMsg": 1,
+      "avgWordCount": 6
+    },
+    "pezdrum": {
+      "nMsg": 1,
+      "avgWordCount": 7
+    },
+    "xxsilent_assasin": {
+      "nMsg": 3,
+      "avgWordCount": 6.666666666666667
+    },
+    "babygoatplays": {
+      "nMsg": 1,
+      "avgWordCount": 2
+    },
+    "AnnoyingAsian": {
+      "nMsg": 25,
+      "avgWordCount": 2.88
+    },
+    "Arimil75": {
+      "nMsg": 12,
+      "avgWordCount": 14.583333333333334
+    },
+    "grenadier2": {
+      "nMsg": 7,
+      "avgWordCount": 2.7142857142857144
+    },
+    "SouIio": {
+      "nMsg": 6,
+      "avgWordCount": 10.666666666666666
+    },
+    "FourThaWin": {
+      "nMsg": 1,
+      "avgWordCount": 7
+    },
+    "Fut_bol790": {
+      "nMsg": 2,
+      "avgWordCount": 4
+    },
+    "jack9615": {
+      "nMsg": 6,
+      "avgWordCount": 16
+    },
+    "Madslie": {
+      "nMsg": 67,
+      "avgWordCount": 10.402985074626864
+    },
+    "HotSwedishBuns": {
+      "nMsg": 1,
+      "avgWordCount": 5
+    },
+    "Irish_Stew1": {
+      "nMsg": 4,
+      "avgWordCount": 7.5
+    },
+    "Dygo1": {
+      "nMsg": 8,
+      "avgWordCount": 7
+    },
+    "DGD69": {
+      "nMsg": 3,
+      "avgWordCount": 15
+    },
+    "bagomagik": {
+      "nMsg": 1,
+      "avgWordCount": 6
+    },
+    "AverageNelson": {
+      "nMsg": 1,
+      "avgWordCount": 3
+    },
+    "mjschechter": {
+      "nMsg": 2,
+      "avgWordCount": 17.5
+    },
+    "suhnnyog": {
+      "nMsg": 1,
+      "avgWordCount": 18
+    },
+    "SmellslikePTFO": {
+      "nMsg": 1,
+      "avgWordCount": 29
+    },
+    "27matt27": {
+      "nMsg": 74,
+      "avgWordCount": 8.702702702702704
+    },
+    "theacid05": {
+      "nMsg": 1,
+      "avgWordCount": 10
+    },
+    "TheBleachingDude": {
+      "nMsg": 6,
+      "avgWordCount": 11.833333333333334
+    },
+    "Undead_Logic": {
+      "nMsg": 27,
+      "avgWordCount": 6.481481481481482
+    },
+    "Mr_Player35": {
+      "nMsg": 3,
+      "avgWordCount": 3.3333333333333335
+    },
+    "Zaxer10": {
+      "nMsg": 1,
+      "avgWordCount": 23
+    },
+    "tsmink13": {
+      "nMsg": 9,
+      "avgWordCount": 9.444444444444445
+    },
+    "Michaelc787": {
+      "nMsg": 1,
+      "avgWordCount": 21
+    },
+    "schewbacca": {
+      "nMsg": 10,
+      "avgWordCount": 7
+    },
+    "TheBrolympian": {
+      "nMsg": 2,
+      "avgWordCount": 8
+    },
+    "rights4wookies": {
+      "nMsg": 1,
+      "avgWordCount": 6
+    },
+    "jpb647": {
+      "nMsg": 1,
+      "avgWordCount": 8
+    },
+    "haroldthetortoise1": {
+      "nMsg": 4,
+      "avgWordCount": 6.25
+    },
+    "TuffWeeb": {
+      "nMsg": 2,
+      "avgWordCount": 4.5
+    },
+    "greend0gg": {
+      "nMsg": 2,
+      "avgWordCount": 5.5
+    },
+    "akarobbieray": {
+      "nMsg": 6,
+      "avgWordCount": 7.333333333333333
+    },
+    "RockyTheViking": {
+      "nMsg": 1,
+      "avgWordCount": 4
+    },
+    "RonaldFSpears": {
+      "nMsg": 2,
+      "avgWordCount": 1.5
+    },
+    "NickDrake23": {
+      "nMsg": 1,
+      "avgWordCount": 29
+    },
+    "woodcock_johnson": {
+      "nMsg": 4,
+      "avgWordCount": 6.5
+    },
+    "sedy32": {
+      "nMsg": 3,
+      "avgWordCount": 7.333333333333333
+    },
+    "CesarRivers": {
+      "nMsg": 1,
+      "avgWordCount": 4
+    },
+    "pvndavibes": {
+      "nMsg": 3,
+      "avgWordCount": 14
+    },
+    "doodurino": {
+      "nMsg": 3,
+      "avgWordCount": 8.333333333333334
+    },
+    "nascar_nahmann": {
+      "nMsg": 19,
+      "avgWordCount": 5.473684210526316
+    },
+    "Stealthy_mb": {
+      "nMsg": 2,
+      "avgWordCount": 8.5
+    },
+    "mass2": {
+      "nMsg": 2,
+      "avgWordCount": 7
+    },
+    "bonichecr": {
+      "nMsg": 2,
+      "avgWordCount": 1.5
+    },
+    "crushing2013": {
+      "nMsg": 5,
+      "avgWordCount": 5.2
+    },
+    "conqab": {
+      "nMsg": 1,
+      "avgWordCount": 4
+    },
+    "BotStik": {
+      "nMsg": 2,
+      "avgWordCount": 12.5
+    },
+    "dayboyrobbywill": {
+      "nMsg": 3,
+      "avgWordCount": 14.333333333333334
+    },
+    "shroud_3": {
+      "nMsg": 1,
+      "avgWordCount": 2
+    },
+    "SlowMovingBus": {
+      "nMsg": 1,
+      "avgWordCount": 8
+    },
+    "snorca": {
+      "nMsg": 9,
+      "avgWordCount": 5.888888888888889
+    },
+    "Myshack40": {
+      "nMsg": 1,
+      "avgWordCount": 7
+    },
+    "iDaleeyy": {
+      "nMsg": 1,
+      "avgWordCount": 8
+    },
+    "rysmith_93": {
+      "nMsg": 2,
+      "avgWordCount": 6.5
+    },
+    "Jayv2004": {
+      "nMsg": 1,
+      "avgWordCount": 4
+    },
+    "The_LordCabbage": {
+      "nMsg": 2,
+      "avgWordCount": 8.5
+    },
+    "thathappenedforreal": {
+      "nMsg": 2,
+      "avgWordCount": 4.5
+    },
+    "rishiiyer": {
+      "nMsg": 3,
+      "avgWordCount": 13
+    },
+    "four4oh": {
+      "nMsg": 7,
+      "avgWordCount": 5.428571428571429
+    },
+    "dairycans": {
+      "nMsg": 8,
+      "avgWordCount": 6.125
+    },
+    "Slykee": {
+      "nMsg": 1,
+      "avgWordCount": 4
+    },
+    "madvillanyzx": {
+      "nMsg": 1,
+      "avgWordCount": 3
+    },
+    "jay94us": {
+      "nMsg": 5,
+      "avgWordCount": 3.8
+    },
+    "dylanvvvv": {
+      "nMsg": 1,
+      "avgWordCount": 10
+    },
+    "pepnlio": {
+      "nMsg": 1,
+      "avgWordCount": 3
+    },
+    "Excus3M3Flo": {
+      "nMsg": 3,
+      "avgWordCount": 12.666666666666666
+    },
+    "dannyf91": {
+      "nMsg": 2,
+      "avgWordCount": 3
+    },
+    "jakobe_824": {
+      "nMsg": 1,
+      "avgWordCount": 10
+    },
+    "saturnine5": {
+      "nMsg": 2,
+      "avgWordCount": 1.5
+    },
+    "Explosivebobby": {
+      "nMsg": 2,
+      "avgWordCount": 7
+    },
+    "sugondee2175": {
+      "nMsg": 1,
+      "avgWordCount": 14
+    },
+    "NINEteenthirtyNINE": {
+      "nMsg": 2,
+      "avgWordCount": 7
+    },
+    "Nekshul": {
+      "nMsg": 30,
+      "avgWordCount": 4.766666666666667
+    },
+    "ProbablySam_": {
+      "nMsg": 1,
+      "avgWordCount": 21
+    },
+    "navsheik": {
+      "nMsg": 1,
+      "avgWordCount": 5
+    },
+    "notgreatjustnate": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "sleepyfloyd": {
+      "nMsg": 2,
+      "avgWordCount": 3
+    },
+    "thebusterino": {
+      "nMsg": 2,
+      "avgWordCount": 1.5
+    },
+    "masongardshow": {
+      "nMsg": 1,
+      "avgWordCount": 20
+    },
+    "FuserCrayy": {
+      "nMsg": 8,
+      "avgWordCount": 6.75
+    },
+    "Dudefacemcgee": {
+      "nMsg": 8,
+      "avgWordCount": 13.125
+    },
+    "i_play_games122": {
+      "nMsg": 1,
+      "avgWordCount": 10
+    },
+    "Umlaut_A": {
+      "nMsg": 2,
+      "avgWordCount": 5
+    },
+    "CraZPants": {
+      "nMsg": 1,
+      "avgWordCount": 9
+    },
+    "Mariopapc": {
+      "nMsg": 17,
+      "avgWordCount": 13.764705882352942
+    },
+    "VengefulFiend": {
+      "nMsg": 36,
+      "avgWordCount": 10.444444444444445
+    },
+    "bird_lawyer74": {
+      "nMsg": 21,
+      "avgWordCount": 7.238095238095238
+    },
+    "0swaldthatendswald": {
+      "nMsg": 2,
+      "avgWordCount": 1
+    },
+    "SClarkey182": {
+      "nMsg": 6,
+      "avgWordCount": 6.833333333333333
+    },
+    "hoffer____": {
+      "nMsg": 1,
+      "avgWordCount": 2
+    },
+    "airhornsuprise": {
+      "nMsg": 4,
+      "avgWordCount": 8.25
+    },
+    "r0wb0ts": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "jays245": {
+      "nMsg": 4,
+      "avgWordCount": 6.75
+    },
+    "mallzeth": {
+      "nMsg": 6,
+      "avgWordCount": 6.5
+    },
+    "klurg1": {
+      "nMsg": 1,
+      "avgWordCount": 7
+    },
+    "TheRad820": {
+      "nMsg": 5,
+      "avgWordCount": 3.6
+    },
+    "KatoDuck": {
+      "nMsg": 3,
+      "avgWordCount": 9.666666666666666
+    },
+    "duceyo": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "Headsmen": {
+      "nMsg": 6,
+      "avgWordCount": 5.833333333333333
+    },
+    "BlueHighway": {
+      "nMsg": 6,
+      "avgWordCount": 10.666666666666666
+    },
+    "Brycebat": {
+      "nMsg": 9,
+      "avgWordCount": 8.11111111111111
+    },
+    "nickdietrich": {
+      "nMsg": 2,
+      "avgWordCount": 5
+    },
+    "lostpriorities": {
+      "nMsg": 7,
+      "avgWordCount": 3.2857142857142856
+    },
+    "jawnthin": {
+      "nMsg": 14,
+      "avgWordCount": 2.857142857142857
+    },
+    "Trekxx": {
+      "nMsg": 2,
+      "avgWordCount": 7.5
+    },
+    "AdStruffer": {
+      "nMsg": 2,
+      "avgWordCount": 6.5
+    },
+    "BearDown26": {
+      "nMsg": 2,
+      "avgWordCount": 2.5
+    },
+    "thepleasantpuffin": {
+      "nMsg": 28,
+      "avgWordCount": 4.464285714285713
+    },
+    "xmatttyyy": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "Gender21": {
+      "nMsg": 3,
+      "avgWordCount": 3.6666666666666665
+    },
+    "Euph1993": {
+      "nMsg": 32,
+      "avgWordCount": 4.875000000000001
+    },
+    "Curtis6405": {
+      "nMsg": 3,
+      "avgWordCount": 11.333333333333334
+    },
+    "tylersutter28": {
+      "nMsg": 2,
+      "avgWordCount": 4
+    },
+    "principia": {
+      "nMsg": 2,
+      "avgWordCount": 10.5
+    },
+    "EdenFire108": {
+      "nMsg": 2,
+      "avgWordCount": 1
+    },
+    "softgnar": {
+      "nMsg": 2,
+      "avgWordCount": 9.5
+    },
+    "YubberLikeRubber": {
+      "nMsg": 4,
+      "avgWordCount": 4.5
+    },
+    "fillgee": {
+      "nMsg": 3,
+      "avgWordCount": 8.333333333333334
+    },
+    "PoLoMoTo": {
+      "nMsg": 2,
+      "avgWordCount": 10.5
+    },
+    "MIsterremix99": {
+      "nMsg": 11,
+      "avgWordCount": 3.4545454545454546
+    },
+    "vgCheeze": {
+      "nMsg": 3,
+      "avgWordCount": 10
+    },
+    "DmoGaming": {
+      "nMsg": 4,
+      "avgWordCount": 6.5
+    },
+    "pancreatii": {
+      "nMsg": 3,
+      "avgWordCount": 4.666666666666667
+    },
+    "lucasboi34": {
+      "nMsg": 3,
+      "avgWordCount": 4.666666666666667
+    },
+    "Finderkind": {
+      "nMsg": 4,
+      "avgWordCount": 5.75
+    },
+    "SatchelZ93": {
+      "nMsg": 14,
+      "avgWordCount": 11.071428571428571
+    },
+    "GrayMobius": {
+      "nMsg": 1,
+      "avgWordCount": 4
+    },
+    "fryedpidgey": {
+      "nMsg": 2,
+      "avgWordCount": 5.5
+    },
+    "bornkooler": {
+      "nMsg": 1,
+      "avgWordCount": 5
+    },
+    "ThatDrTomGuy": {
+      "nMsg": 2,
+      "avgWordCount": 5.5
+    },
+    "imthesweetboy": {
+      "nMsg": 2,
+      "avgWordCount": 11
+    },
+    "ThePetalesharo": {
+      "nMsg": 42,
+      "avgWordCount": 3.80952380952381
+    },
+    "ThemDemo": {
+      "nMsg": 2,
+      "avgWordCount": 7.5
+    },
+    "L1veRes1n": {
+      "nMsg": 3,
+      "avgWordCount": 1
+    },
+    "mrdoooodles": {
+      "nMsg": 10,
+      "avgWordCount": 4.7
+    },
+    "Funmasterjoshy": {
+      "nMsg": 1,
+      "avgWordCount": 4
+    },
+    "obviouslypolitical": {
+      "nMsg": 4,
+      "avgWordCount": 13
+    },
+    "D1savagez": {
+      "nMsg": 4,
+      "avgWordCount": 5
+    },
+    "schreck5": {
+      "nMsg": 10,
+      "avgWordCount": 10.6
+    },
+    "kanknstank": {
+      "nMsg": 2,
+      "avgWordCount": 6
+    },
+    "DiddleWizard": {
+      "nMsg": 2,
+      "avgWordCount": 11.5
+    },
+    "TwO_DiM3nTiOnAl": {
+      "nMsg": 6,
+      "avgWordCount": 8.333333333333334
+    },
+    "sssware": {
+      "nMsg": 3,
+      "avgWordCount": 4
+    },
+    "wysessions": {
+      "nMsg": 7,
+      "avgWordCount": 8
+    },
+    "LankyDragoon": {
+      "nMsg": 1,
+      "avgWordCount": 11
+    },
+    "andres_al_azar": {
+      "nMsg": 2,
+      "avgWordCount": 13.5
+    },
+    "DonDrapur": {
+      "nMsg": 2,
+      "avgWordCount": 2.5
+    },
+    "the_mr_mojo": {
+      "nMsg": 1,
+      "avgWordCount": 5
+    },
+    "shadowkid017": {
+      "nMsg": 2,
+      "avgWordCount": 3.5
+    },
+    "1sizefitsall": {
+      "nMsg": 3,
+      "avgWordCount": 3.3333333333333335
+    },
+    "Mazap15": {
+      "nMsg": 1,
+      "avgWordCount": 6
+    },
+    "DingerOrion": {
+      "nMsg": 1,
+      "avgWordCount": 17
+    },
+    "TheAtlas3": {
+      "nMsg": 1,
+      "avgWordCount": 24
+    },
+    "MrFlowrPowr": {
+      "nMsg": 2,
+      "avgWordCount": 6.5
+    },
+    "aldrake123": {
+      "nMsg": 1,
+      "avgWordCount": 3
+    },
+    "shroomy_sheep": {
+      "nMsg": 1,
+      "avgWordCount": 6
+    },
+    "darbosh": {
+      "nMsg": 1,
+      "avgWordCount": 15
+    },
+    "sativasamurai89": {
+      "nMsg": 5,
+      "avgWordCount": 10
+    },
+    "Fixxer1066": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "RedRover158": {
+      "nMsg": 3,
+      "avgWordCount": 5.666666666666667
+    },
+    "Ryan25011": {
+      "nMsg": 6,
+      "avgWordCount": 11.666666666666666
+    },
+    "Mobleyy": {
+      "nMsg": 1,
+      "avgWordCount": 6
+    },
+    "Magicmikexxl": {
+      "nMsg": 1,
+      "avgWordCount": 24
+    },
+    "seabassbangbang": {
+      "nMsg": 1,
+      "avgWordCount": 2
+    },
+    "Sundin00013": {
+      "nMsg": 12,
+      "avgWordCount": 5.25
+    },
+    "fastfurious84": {
+      "nMsg": 2,
+      "avgWordCount": 4
+    },
+    "zygmuray": {
+      "nMsg": 1,
+      "avgWordCount": 7
+    },
+    "femyeda": {
+      "nMsg": 4,
+      "avgWordCount": 5.75
+    },
+    "endform": {
+      "nMsg": 2,
+      "avgWordCount": 9.5
+    },
+    "StreamingUrineNation": {
+      "nMsg": 2,
+      "avgWordCount": 23.5
+    },
+    "XxSparkmanxX": {
+      "nMsg": 1,
+      "avgWordCount": 5
+    },
+    "MrVisser": {
+      "nMsg": 1,
+      "avgWordCount": 12
+    },
+    "Lowrider102": {
+      "nMsg": 1,
+      "avgWordCount": 18
+    },
+    "Mosestomtom": {
+      "nMsg": 1,
+      "avgWordCount": 9
+    },
+    "Nealtron": {
+      "nMsg": 7,
+      "avgWordCount": 17.571428571428573
+    },
+    "BruceyGooseyy": {
+      "nMsg": 2,
+      "avgWordCount": 18
+    },
+    "mendezu23": {
+      "nMsg": 42,
+      "avgWordCount": 4.928571428571429
+    },
+    "unexpected_company101": {
+      "nMsg": 1,
+      "avgWordCount": 12
+    },
+    "deadorchidg": {
+      "nMsg": 1,
+      "avgWordCount": 19
+    },
+    "kringelkrans": {
+      "nMsg": 1,
+      "avgWordCount": 28
+    },
+    "attivx": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "1Hughes": {
+      "nMsg": 3,
+      "avgWordCount": 3.6666666666666665
+    },
+    "Nk15_": {
+      "nMsg": 33,
+      "avgWordCount": 5.090909090909091
+    },
+    "WellerFM": {
+      "nMsg": 14,
+      "avgWordCount": 8.214285714285714
+    },
+    "not_Iogan": {
+      "nMsg": 1,
+      "avgWordCount": 6
+    },
+    "homedyllis": {
+      "nMsg": 2,
+      "avgWordCount": 8
+    },
+    "Drop_the_Mike": {
+      "nMsg": 1,
+      "avgWordCount": 3
+    },
+    "Funnyfreek": {
+      "nMsg": 3,
+      "avgWordCount": 13
+    },
+    "tonyh28": {
+      "nMsg": 5,
+      "avgWordCount": 7
+    },
+    "Gunsetz": {
+      "nMsg": 2,
+      "avgWordCount": 3
+    },
+    "ChortleMySqortl": {
+      "nMsg": 14,
+      "avgWordCount": 2.7142857142857144
+    },
+    "Ukabach": {
+      "nMsg": 1,
+      "avgWordCount": 10
+    },
+    "Oscar_Wao": {
+      "nMsg": 3,
+      "avgWordCount": 1.6666666666666667
+    },
+    "thepurpleproject": {
+      "nMsg": 2,
+      "avgWordCount": 9.5
+    },
+    "calebhub514": {
+      "nMsg": 2,
+      "avgWordCount": 3
+    },
+    "slurpyboy9000": {
+      "nMsg": 4,
+      "avgWordCount": 5.25
+    },
+    "EMoni017": {
+      "nMsg": 2,
+      "avgWordCount": 3
+    },
+    "wekilledit": {
+      "nMsg": 14,
+      "avgWordCount": 7
+    },
+    "saz26": {
+      "nMsg": 2,
+      "avgWordCount": 2.5
+    },
+    "Georqey": {
+      "nMsg": 1,
+      "avgWordCount": 3
+    },
+    "NoBrainOctane": {
+      "nMsg": 2,
+      "avgWordCount": 6
+    },
+    "Meurtrier1": {
+      "nMsg": 1,
+      "avgWordCount": 8
+    },
+    "rob_gresh": {
+      "nMsg": 2,
+      "avgWordCount": 2.5
+    },
+    "FrankiPresto": {
+      "nMsg": 1,
+      "avgWordCount": 9
+    },
+    "toddybrown": {
+      "nMsg": 1,
+      "avgWordCount": 15
+    },
+    "m_jacko12": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "coochiehoochie420": {
+      "nMsg": 4,
+      "avgWordCount": 9
+    },
+    "Headss": {
+      "nMsg": 11,
+      "avgWordCount": 2.727272727272727
+    },
+    "tjceltics18": {
+      "nMsg": 1,
+      "avgWordCount": 3
+    },
+    "clevrc95": {
+      "nMsg": 3,
+      "avgWordCount": 2.6666666666666665
+    },
+    "xdavethecrazy": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "vython1": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "XagonogaX": {
+      "nMsg": 3,
+      "avgWordCount": 1.3333333333333333
+    },
+    "JRisJunior": {
+      "nMsg": 2,
+      "avgWordCount": 2
+    },
+    "whitewolf12201": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "TarrBag": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "xlqt": {
+      "nMsg": 3,
+      "avgWordCount": 4.333333333333333
+    },
+    "mataishere": {
+      "nMsg": 1,
+      "avgWordCount": 2
+    },
+    "jtothem24": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "MrTenenbaum": {
+      "nMsg": 2,
+      "avgWordCount": 2
+    },
+    "kobeykg3": {
+      "nMsg": 2,
+      "avgWordCount": 10.5
+    },
+    "cfixed": {
+      "nMsg": 2,
+      "avgWordCount": 9.5
+    },
+    "verson24": {
+      "nMsg": 2,
+      "avgWordCount": 3.5
+    },
+    "STAMPCRAB_96": {
+      "nMsg": 5,
+      "avgWordCount": 2.4
+    },
+    "TeresMajor": {
+      "nMsg": 1,
+      "avgWordCount": 2
+    },
+    "g2foundplur": {
+      "nMsg": 2,
+      "avgWordCount": 1.5
+    },
+    "Megadon88": {
+      "nMsg": 3,
+      "avgWordCount": 3.3333333333333335
+    },
+    "AHensman94": {
+      "nMsg": 3,
+      "avgWordCount": 3.3333333333333335
+    },
+    "pH__": {
+      "nMsg": 2,
+      "avgWordCount": 11.5
+    },
+    "Dkbasedlord": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "iJezzy": {
+      "nMsg": 1,
+      "avgWordCount": 14
+    },
+    "MrMojoRisin9": {
+      "nMsg": 10,
+      "avgWordCount": 8.8
+    },
+    "weighm": {
+      "nMsg": 14,
+      "avgWordCount": 7.857142857142857
+    },
+    "jarhwasd": {
+      "nMsg": 1,
+      "avgWordCount": 11
+    },
+    "redeyedskink": {
+      "nMsg": 1,
+      "avgWordCount": 26
+    },
+    "InsaneInTheBearBrain": {
+      "nMsg": 2,
+      "avgWordCount": 2
+    },
+    "kriha17": {
+      "nMsg": 2,
+      "avgWordCount": 8.5
+    },
+    "jimmyw00dz": {
+      "nMsg": 2,
+      "avgWordCount": 9.5
+    },
+    "xgarmx": {
+      "nMsg": 1,
+      "avgWordCount": 5
+    },
+    "SadBoiJacko": {
+      "nMsg": 1,
+      "avgWordCount": 8
+    },
+    "trolololowen": {
+      "nMsg": 1,
+      "avgWordCount": 22
+    },
+    "Manaray007": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "zblack121": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "talekinesis": {
+      "nMsg": 2,
+      "avgWordCount": 2.5
+    },
+    "ocho_muerte_89": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "thawkins11": {
+      "nMsg": 2,
+      "avgWordCount": 8.5
+    },
+    "rifinio": {
+      "nMsg": 2,
+      "avgWordCount": 7
+    },
+    "jy28": {
+      "nMsg": 1,
+      "avgWordCount": 2
+    },
+    "ATR0X1": {
+      "nMsg": 1,
+      "avgWordCount": 2
+    },
+    "Sleazyswede": {
+      "nMsg": 2,
+      "avgWordCount": 6.5
+    },
+    "SO_Crates97": {
+      "nMsg": 1,
+      "avgWordCount": 2
+    },
+    "kezah": {
+      "nMsg": 3,
+      "avgWordCount": 12
+    },
+    "albanianator": {
+      "nMsg": 2,
+      "avgWordCount": 2.5
+    },
+    "forkenhell": {
+      "nMsg": 9,
+      "avgWordCount": 4.888888888888889
+    },
+    "superdreamboy": {
+      "nMsg": 1,
+      "avgWordCount": 5
+    },
+    "thekanadier": {
+      "nMsg": 1,
+      "avgWordCount": 14
+    },
+    "GabeRSnerd": {
+      "nMsg": 1,
+      "avgWordCount": 2
+    },
+    "rickypaterini": {
+      "nMsg": 1,
+      "avgWordCount": 11
+    },
+    "Shadow2363": {
+      "nMsg": 1,
+      "avgWordCount": 5
+    },
+    "Aonsfoina": {
+      "nMsg": 2,
+      "avgWordCount": 18
+    },
+    "ufarma4": {
+      "nMsg": 1,
+      "avgWordCount": 6
+    },
+    "Jammly": {
+      "nMsg": 2,
+      "avgWordCount": 1.5
+    },
+    "Shortygangg": {
+      "nMsg": 1,
+      "avgWordCount": 5
+    },
+    "Reglay3": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "statman95": {
+      "nMsg": 1,
+      "avgWordCount": 5
+    },
+    "denzdamenz": {
+      "nMsg": 2,
+      "avgWordCount": 9.5
+    },
+    "action_gordon": {
+      "nMsg": 4,
+      "avgWordCount": 4.75
+    },
+    "carnage_falcon": {
+      "nMsg": 8,
+      "avgWordCount": 6
+    },
+    "zalcmoon": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "ayres_jonas": {
+      "nMsg": 1,
+      "avgWordCount": 2
+    },
+    "KImJongChill11": {
+      "nMsg": 2,
+      "avgWordCount": 4
+    },
+    "sanchoviesfan666": {
+      "nMsg": 4,
+      "avgWordCount": 5
+    },
+    "108YearsLater": {
+      "nMsg": 4,
+      "avgWordCount": 3.5
+    },
+    "kyledeau": {
+      "nMsg": 1,
+      "avgWordCount": 23
+    },
+    "Marcusk45": {
+      "nMsg": 16,
+      "avgWordCount": 4.3125
+    },
+    "DecKav": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "meepmorp1348": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "xMlK3Y": {
+      "nMsg": 12,
+      "avgWordCount": 5.333333333333333
+    },
+    "tremaine26": {
+      "nMsg": 2,
+      "avgWordCount": 1.5
+    },
+    "doeryan": {
+      "nMsg": 2,
+      "avgWordCount": 2.5
+    },
+    "Chineeman": {
+      "nMsg": 3,
+      "avgWordCount": 3
+    },
+    "seancbo": {
+      "nMsg": 3,
+      "avgWordCount": 3.6666666666666665
+    },
+    "GregPopovich": {
+      "nMsg": 1,
+      "avgWordCount": 2
+    },
+    "Ddo5S": {
+      "nMsg": 11,
+      "avgWordCount": 4.818181818181818
+    },
+    "TheInfamyX": {
+      "nMsg": 3,
+      "avgWordCount": 2
+    },
+    "JammyFunk": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "B_As_In_Bacon": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "Fatchops87": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "DopamineGene": {
+      "nMsg": 1,
+      "avgWordCount": 4
+    },
+    "pidesquare": {
+      "nMsg": 3,
+      "avgWordCount": 2
+    },
+    "LizardWizardFabi": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "sme1000": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "citsatnad": {
+      "nMsg": 1,
+      "avgWordCount": 2
+    },
+    "nosamm15": {
+      "nMsg": 2,
+      "avgWordCount": 4.5
+    },
+    "nurban1": {
+      "nMsg": 1,
+      "avgWordCount": 3
+    },
+    "Ghost_2571": {
+      "nMsg": 3,
+      "avgWordCount": 2
+    },
+    "jake_todhunter": {
+      "nMsg": 4,
+      "avgWordCount": 15
+    },
+    "cooolnez": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "sniperfifer": {
+      "nMsg": 1,
+      "avgWordCount": 7
+    },
+    "shiznoeater": {
+      "nMsg": 2,
+      "avgWordCount": 11
+    },
+    "namesliam": {
+      "nMsg": 1,
+      "avgWordCount": 8
+    },
+    "hallmorales": {
+      "nMsg": 24,
+      "avgWordCount": 5
+    },
+    "2008biden": {
+      "nMsg": 2,
+      "avgWordCount": 7.5
+    },
+    "ToolSchism": {
+      "nMsg": 1,
+      "avgWordCount": 4
+    },
+    "PNWJeremy": {
+      "nMsg": 1,
+      "avgWordCount": 9
+    },
+    "captainnathaniel": {
+      "nMsg": 1,
+      "avgWordCount": 12
+    },
+    "UxBEENxROBBED": {
+      "nMsg": 1,
+      "avgWordCount": 13
+    },
+    "BRAN822222": {
+      "nMsg": 12,
+      "avgWordCount": 5.5
+    },
+    "opticnotinoptic": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "thebudmademewiser": {
+      "nMsg": 1,
+      "avgWordCount": 2
+    },
+    "meowarco": {
+      "nMsg": 2,
+      "avgWordCount": 3.5
+    },
+    "urdnotmara": {
+      "nMsg": 3,
+      "avgWordCount": 2
+    },
+    "theBadgr": {
+      "nMsg": 6,
+      "avgWordCount": 3.6666666666666665
+    },
+    "TheBrutal95": {
+      "nMsg": 1,
+      "avgWordCount": 8
+    },
+    "chriswithguns": {
+      "nMsg": 2,
+      "avgWordCount": 12
+    },
+    "Richslice": {
+      "nMsg": 1,
+      "avgWordCount": 5
+    },
+    "SofaKing0": {
+      "nMsg": 1,
+      "avgWordCount": 5
+    },
+    "OperatorPerry": {
+      "nMsg": 1,
+      "avgWordCount": 3
+    },
+    "KeepItFraiche": {
+      "nMsg": 2,
+      "avgWordCount": 5.5
+    },
+    "jack9755": {
+      "nMsg": 1,
+      "avgWordCount": 5
+    },
+    "janken888": {
+      "nMsg": 1,
+      "avgWordCount": 8
+    },
+    "JalenZS": {
+      "nMsg": 1,
+      "avgWordCount": 7
+    },
+    "gza0909": {
+      "nMsg": 1,
+      "avgWordCount": 13
+    },
+    "TheHern463": {
+      "nMsg": 2,
+      "avgWordCount": 6
+    },
+    "BigBsquared": {
+      "nMsg": 1,
+      "avgWordCount": 4
+    },
+    "StopAndChat": {
+      "nMsg": 14,
+      "avgWordCount": 4.42857142857143
+    },
+    "RKidd15": {
+      "nMsg": 2,
+      "avgWordCount": 5
+    },
+    "CallMePick": {
+      "nMsg": 1,
+      "avgWordCount": 5
+    },
+    "bonkychilliams": {
+      "nMsg": 2,
+      "avgWordCount": 8
+    },
+    "TrebleDriver": {
+      "nMsg": 1,
+      "avgWordCount": 6
+    },
+    "tehnoahman11": {
+      "nMsg": 1,
+      "avgWordCount": 8
+    },
+    "BurtWurst": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    },
+    "Demergia": {
+      "nMsg": 1,
+      "avgWordCount": 1
+    }
+  }
+}

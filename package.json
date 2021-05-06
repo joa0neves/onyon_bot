@@ -10,7 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@google-cloud/language": "^4.2.2",
     "dotenv": "^8.2.0",
-    "tmi.js": "^1.7.5"
+    "https": "^1.0.0",
+    "node-fetch": "^2.6.1",
+    "tmi.js": "^1.7.5",
+    "xmlhttprequest": "^1.8.0"
   }
 }
